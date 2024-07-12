@@ -51,7 +51,7 @@
 		 - Desconocido para el que está interesado en mitigar (por ejemplo, el proveedor)
 		 - Conocido pero el parche no ha sido desarrollado.
 	 - Los ataques dirigidos suelen incluir vulnerabilidades de día cero
-	 - ❗ Una vulnerabilidad no es de día cero una vez que se divulga y se parchea
+	 ❗ Una vulnerabilidad no es de día cero una vez que se divulga y se parchea
 
 **Zero-Day exploit**
 	 - Aprovechar las vulnerabilidades de día cero
@@ -86,7 +86,7 @@ Ejemplo **[Espectro](./../06-system-hacking/escalating-privileges.md#spectre-vul
 		 - ejemplo: reloj inteligente, frigorífico, PC.
 	2. Avanzan más al obtener acceso al siguiente dispositivo de su red y luego al siguiente y así sucesivamente.
 		 - Al final, el hacker potencialmente es dueño de la red.
-- 🤗 **Ejemplo para hackear bancos o similar**
+🤗 **Ejemplo para hackear bancos o similar**
 	 1. Vaya tras la persona que tenga más acceso.
 	 2. Hackear el enrutador doméstico de esa persona como vector de ataque.
 		 - Porque tiene la menor resistencia en comparación con la red corporativa.
@@ -153,28 +153,28 @@ Ejemplo **[Espectro](./../06-system-hacking/escalating-privileges.md#spectre-vul
 
 - Garantiza la exactitud de la información.
 - Evita cambios inadecuados y no autorizados: el
-- 💡 Controles: • hash • control de acceso
+💡 Controles: • hash • control de acceso
 
 ### Disponibilidad
 
 - Garantizar que los recursos estén disponibles siempre que el usuario autorizado los necesite.
-- 💡 Controles: • redundancia • copias de seguridad de datos • antivirus • prevención DDoS
+💡 Controles: • redundancia • copias de seguridad de datos • antivirus • prevención DDoS
 
 ### Autenticidad
 
 - Asegura la calidad de ser genuino o incorrupto, ya sea:
 	 - **Los usuarios** son en realidad quienes se presentan a través de la autenticación.
 	 - o un **documento o información presentado** no está dañado.
-- 💡 Controles: • usuarios (biometría) • tarjetas inteligentes • datos ([certificados digitales](./../15-cryptography/encrypting-communication.md#digital-certificate))
+💡 Controles: • usuarios (biometría) • tarjetas inteligentes • datos ([certificados digitales](./../15-cryptography/encrypting-communication.md#digital-certificate))
 
 ### No repudio
 
 ![](img/non-repudiation.png)
 
-- 📝 Garantizar que
+📝 Garantizar que
 	 - el remitente de un mensaje no puede negar haber enviado el mensaje
 	 - el destinatario no puede negar haber recibido el mensaje
-- 💡 Controles: firmas digitales, registro
+💡 Controles: firmas digitales, registro
 
 ## Functionality, usability, security triangle
 
@@ -187,7 +187,7 @@ Ejemplo **[Espectro](./../06-system-hacking/escalating-privileges.md#spectre-vul
 	 - Cualquier cambio realizado en un componente afecta directamente a la disminución de los otros dos.
 	 - Ejemplo: Si se aumenta la seguridad del sistema, entonces la funcionalidad y usabilidad del sistema disminuyen.
 		 - Por mayores gastos de seguridad con más controles o mediante mayores exámenes.
-	 - 💡 Equilibra todos y cada uno de ellos para conseguir los niveles deseados de seguridad, funcionalidad y usabilidad.
+	 💡 Equilibra todos y cada uno de ellos para conseguir los niveles deseados de seguridad, funcionalidad y usabilidad.
 
 ## Tipos de documentos
 
