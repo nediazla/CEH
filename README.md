@@ -1,4 +1,4 @@
-# Certified ethical hacker in bullet points
+# Certified ethical hacker
 
 [![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://www.buymeacoffee.com/nediazla3)
 
