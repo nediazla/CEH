@@ -226,7 +226,7 @@ Ejemplos:
 
 - Takes advantage of poorly written code and lack of proper validation of input and output data.
 - E.g. buffer overflows, SQL injections, cross-site scripting
-- 💡 There are many online scanning tools to detect those.
+💡 There are many online scanning tools to detect those.
 
 ## Modern age information warfare
 
@@ -234,7 +234,7 @@ Ejemplos:
 - Weapons include • viruses • worms • trojan horses • logic bombs • trap doors • nano machines and microbes • electronic jamming • penetration exploits and tools.
 - E.g.
   - Corporations spy on each other to use each others technology secrets and patents
-    - 🤗 Also known as [Industrial espionage](https://en.wikipedia.org/wiki/Industrial_espionage)
+    🤗 Also known as [Industrial espionage](https://en.wikipedia.org/wiki/Industrial_espionage)
   - Governments spy on other governments by using hackers as proxies to gain information about e.g. defense systems.
   - Intellectual property thefts with reverse engineering to create products without investing in R&D
 - Categories include:
