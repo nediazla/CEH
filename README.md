@@ -1,4 +1,4 @@
-# Certified ethical hacker
+# Certified Ethical Hacker
 
 [![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://www.buymeacoffee.com/nediazla3)
 
@@ -136,5 +136,10 @@
     1. [IoT overview](./chapters/18-iot-and-ot/iot-overview.md)
     2. [IoT security](./chapters/18-iot-and-ot/iot-security.md)
 19. [Exam readiness](chapters/19-exam-readiness/exam-readiness.md)
+
+
+# Créditos
+
+[CyberPunk010](https://github.com/Cyberpunk010)
 
 [↑](#content)
